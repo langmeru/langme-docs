@@ -1,0 +1,4 @@
+site_name: Langme Docs
+
+nav:
+  - Главная: index.md
