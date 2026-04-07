@@ -2,3 +2,9 @@ site_name: Langme Docs
 
 nav:
   - Главная: index.md
+  - Английский: english.md
+  - Китайский: chinese.md
+  - Немецкий: german.md
+  - Французский: french.md
+  - Испанский: spanish.md
+  - Турецкий: turkish.md
